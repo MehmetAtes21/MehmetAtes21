@@ -2,10 +2,6 @@
 
 -------------------------
 
-## Support 💬
-### • [İletişim](https://t.me/BotDestekTR) Telegram Destek Grubu .
-
-------------------------
-
-## Channel 🎲
-### • [Bilgi](https://t.me/StarBotKanal) Telegram Kanalı . 
+# Telegram 💭
+### • [Support 💬](https://t.me/BotDestekTR) Telegram Support 
+### • [Channel 🎲](https://t.me/StarBotKanal) Telegram Channel
